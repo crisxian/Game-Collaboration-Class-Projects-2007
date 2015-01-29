@@ -1,0 +1,9 @@
+Game Name: Alien Crossing
+Genre: Educational/Role Playing
+Class: Game Collaboration Project 1
+
+Project Constraints:
+Create an interactive lesson that explores the American Voting system.
+
+Build version:
+Prefinal ver0.18

@@ -1,0 +1,9 @@
+Game Name: Hectic Electric Squirrel
+Genre: Microgames (Similar to WarioWare)
+Class: Game Collaboration Project
+
+Project Constraints:
+Create a game that will be demo'd to the school body and presented on open house as a final product.
+
+Build version:
+Final release.
